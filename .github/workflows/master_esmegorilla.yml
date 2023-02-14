@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'esmegorilla'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82FD7E1562AC49B5939DAC8AEA08907E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F0ECF85E81A64B08A81A5B5378012493 }}
           package: .
